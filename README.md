@@ -1,2 +1,3 @@
 # William Chapman
-##This is my personal repository
+
+This is my personal repository
